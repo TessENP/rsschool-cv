@@ -10,7 +10,9 @@ I'm here to learn Front-End Development
 ## Skills
 I don't have any yet.
 ## Code Example
-```function multiply(a, b)
+```
+function multiply(a, b)
 {
  return a * b;
-}```
+}
+```
