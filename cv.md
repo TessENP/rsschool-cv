@@ -7,3 +7,5 @@
 
 ## About Me
 I'm here to learn Front-End Development
+## Skills
+I don't have any yet.
