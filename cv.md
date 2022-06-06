@@ -20,3 +20,5 @@ function multiply(a, b)
 None
 ## Education
 __University__: Saint-Petersburg State University of Aerospace Instrumentation
+## Languages
+* __English:__ Intermediate
