@@ -18,3 +18,5 @@ function multiply(a, b)
 ```
 ## Experience
 None
+## Education
+University: Saint-Petersburg State University of Aerospace Instrumentation
