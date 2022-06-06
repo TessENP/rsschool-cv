@@ -17,7 +17,7 @@ function multiply(a, b)
 }
 ```
 ## Experience
-None
+[CV Project](https://github.com/TessENP/rsschool-cv/blob/gh-pages/cv.md)
 ## Education
 __University__: Saint-Petersburg State University of Aerospace Instrumentation
 ## Languages
