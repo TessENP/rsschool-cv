@@ -1,2 +1,2 @@
-https://TessENP.github.io/rsschool-cv/cv
-https://TessENP.github.io/rsschool-cv/
+* https://TessENP.github.io/rsschool-cv/cv
+* https://TessENP.github.io/rsschool-cv/
